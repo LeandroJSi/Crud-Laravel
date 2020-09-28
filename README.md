@@ -23,9 +23,9 @@ Para executar esse projeto é necessário que tenha em seu computador o software
 Onde o primeiro comando é necessário para iniciar o container do docker, o segundo comando é para ter acesso 
 Em seguida para visualizar o projeto em execução é necessário ir até o navegador, digitar no campo de url "localhost/login", agora será preciso fazer o login, para isso utilize o email e senha especificados abaixo:
 
- *email: admin@admin.com
+ * email: admin@admin.com
 
- *password: password
+ * password: password
 
 Pronto! agora é possivel utilizar o site.
 
